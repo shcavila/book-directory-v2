@@ -31,3 +31,7 @@ Welcome to the React TypeScript Project! This project serves as a starting point
 
 ## API Requests
 Axios is used for making API requests. The example src\utils\requests\index.ts  file demonstrates how to set up and use Axios for fetching data.
+
+## Credentials
+   email:admin
+   password:admin
